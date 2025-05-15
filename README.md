@@ -1,4 +1,4 @@
-# Employee Management System Python Project - urssanjaysingh/Employee-Management-System
+# Employee Management System Python Project - Arjun-Rathore-oss/Employee-Management-System
 
 Welcome to the GitHub repository for the Employee Management System Python project - Arjun-Rathore-oss/Employee-Management-System!
 
